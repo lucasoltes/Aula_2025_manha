@@ -1,0 +1,37 @@
+body{
+	background:#FAE257;
+}
+h1{
+	color:#E5321E;
+	text-align: center;
+	font-size:22pt ;
+	text-decoration: underline;
+	text-transform: uppercase;
+	font-family: "Algerian", cursive;
+}
+p{
+	color: #E5321E;
+	text-align: justify;
+	text-indent: 10%;
+	line-height: 2cm;
+	font-size: 13pt;
+	font-family: "Bodoni MT Black", cursive;
+}
+img{
+	width:50vw;/*view width - visão da largura*/
+	height:40vw; /* view height - visão da altura*/
+	margin-left: 25vw;
+	opacity:0.3;
+	border-radius:16px;
+
+}
+a{
+	margin-left: 50vw;
+	font-size: 13pt;
+	font-family:"jokerman",helveltica;
+	color:#E5321E;
+}
+a:hover{
+	background-color:#E5321E;
+	color:black;
+}
